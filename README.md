@@ -3,7 +3,7 @@ telegram-bot-framework/
 ├── config/                        # 配置文件夹
 │   ├── default.json               # 默认配置文件
 │   └── production.json            # 生产环境配置
-│
+│ 
 ├── src/                           # 源代码目录
 │   ├── bot/                       # Telegram Bot 相关逻辑
 │   │   ├── bot.js                 # 主 Bot 实例文件
