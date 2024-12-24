@@ -1,0 +1,14 @@
+{
+    "telegram": {
+      "token": "YOUR_BOT_API_TOKEN",  
+      "webhook": "https://yourwebhook.url"  
+    },
+    "server": {
+      "host": "localhost",
+      "port": 3000  
+    },
+    "database": {
+      "uri": "mongodb://localhost:27017/telegram-bot"
+    }
+  }
+  
